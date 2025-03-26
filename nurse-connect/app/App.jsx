@@ -1,6 +1,6 @@
 import React from "react";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
-import AppNavigator from "../src/navigation/Navigation";
+import AppNavigator from "../navigation/Navigation";
 
 const App = () => {
   return (
